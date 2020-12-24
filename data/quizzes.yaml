@@ -1,51 +1,51 @@
-- id: 1
-  name: Quelques chiffres clés
-  introduction: <p>Quelques chiffres pour se mettre en jambes.</p>
-  conclusion: ''
-  difficulty_average: 1.8888888888888888
-  author: Raphael Odini
-  image_background_url: https://showyourstripes.info/stripes/GLOBE---1850-2019-MO.png
-  publish: true
-  created: 2020-04-17
-  updated: 2020-12-14
-  questions:
-  - 3
-  - 16
-  - 21
-  - 48
-  - 59
-  - 70
-  - 71
-  - 75
-  - 83
-  tags: []
-- id: 2
-  name: L'énergie en France 🇫🇷
-  introduction: Un aperçu rapide de la production et de la consommation d'énergie
-    en France.
-  conclusion: ''
-  difficulty_average: 2.3
-  author: Raphael Odini
-  image_background_url: https://i3.wp.com/fee.asso.fr/wp-content/uploads/2015/09/Carte-de-France-eolien-2015.jpg
-  publish: true
-  created: 2020-05-25
-  updated: 2020-11-24
-  questions:
-  - 11
-  - 104
-  - 132
-  - 135
-  - 184
-  - 210
-  - 254
-  - 259
-  - 307
-  - 410
-  tags: []
-- id: 3
-  name: Le quiz de Vincent Mignerot sur l'anthropologie
-  introduction: "<p>Vincent Mignerot est essayiste et conférencier. Il développe une\
-    \ théorie écologique de l’esprit et se questionne sur la singularité de l'humanité\
+- "id": !!int "1"
+  "name": "Quelques chiffres clés"
+  "introduction": "<p>Quelques chiffres pour se mettre en jambes.</p>"
+  "conclusion": ""
+  "difficulty_average": !!float "1.8888888888888888"
+  "author": "Raphael Odini"
+  "image_background_url": "https://showyourstripes.info/stripes/GLOBE---1850-2019-MO.png"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "3"
+  - !!int "16"
+  - !!int "21"
+  - !!int "48"
+  - !!int "59"
+  - !!int "70"
+  - !!int "71"
+  - !!int "75"
+  - !!int "83"
+  "tags": []
+- "id": !!int "2"
+  "name": "L'énergie en France \U0001F1EB\U0001F1F7"
+  "introduction": "Un aperçu rapide de la production et de la consommation d'énergie\
+    \ en France."
+  "conclusion": ""
+  "difficulty_average": !!float "2.3"
+  "author": "Raphael Odini"
+  "image_background_url": "https://i3.wp.com/fee.asso.fr/wp-content/uploads/2015/09/Carte-de-France-eolien-2015.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "11"
+  - !!int "104"
+  - !!int "132"
+  - !!int "135"
+  - !!int "184"
+  - !!int "210"
+  - !!int "254"
+  - !!int "259"
+  - !!int "307"
+  - !!int "410"
+  "tags": []
+- "id": !!int "3"
+  "name": "Le quiz de Vincent Mignerot sur l'anthropologie"
+  "introduction": "<p>Vincent Mignerot est essayiste et conférencier. Il développe\
+    \ une théorie écologique de l’esprit et se questionne sur la singularité de l'humanité\
     \ dans son contexte évolutif. Ses <a href=\"https://vincent-mignerot.fr/\">travaux\
     \ </a>vont de la théorie à l’étude de la perception humaine, notamment la synesthésie.\
     \ Il est le fondateur de l’association <a href=\"http://adrastia.org\">Adrastia</a>,\
@@ -54,529 +54,534 @@
     \ Transition 2030</a>, qui compte plus de 30,000 membres.</p>\r\n\r\n<p>Vincent\
     \ nous a concocté un quiz teinté d'anthropologie qui va nous faire revenir quelques\
     \ millénaires en arrière !</p>"
-  conclusion: ''
-  difficulty_average: 2.1666666666666665
-  author: Vincent Mignerot
-  image_background_url: https://www.slate.fr/sites/default/files/styles/1060x523/public/neandertal_1.jpg
-  publish: true
-  created: 2020-06-26
-  updated: 2020-12-21
-  questions:
-  - 545
-  - 546
-  - 547
-  - 548
-  - 549
-  - 550
-  - 551
-  - 552
-  - 553
-  - 555
-  - 574
-  - 575
-  tags:
-  - 185
-- id: 4
-  name: Les pics de ressources
-  introduction: L'extraction de toute ressource finie passe par un maximum, après
-    lequel elle ne peut que décroître pour finalement tomber à 0. C'est le thème qu'explore
-    ce quiz sur les différentes ressources non-renouvelables dont nous faisons usage.
-  conclusion: ''
-  difficulty_average: 2.6666666666666665
-  author: Matthieu Massart
-  image_background_url: https://upload.wikimedia.org/wikipedia/commons/f/fe/GlobalPeakOil.png
-  publish: true
-  created: 2020-07-08
-  updated: 2020-11-24
-  questions:
-  - 65
-  - 68
-  - 69
-  - 171
-  - 212
-  - 245
-  tags: []
-- id: 5
-  name: Mon empreinte carbone
-  introduction: <p>L'empreinte carbone d’une activité humaine est une mesure des émissions
-    de gaz à effet de serre d’origine anthropique, c'est-à-dire qui peuvent lui être
-    imputées. Connaissez-vous votre empreinte ? Voyons voir ça.</p>
-  conclusion: ''
-  difficulty_average: 2.090909090909091
-  author: Matthieu Massart
-  image_background_url: https://leshorizons.net/wp-content/uploads/2019/04/d%C3%A9finition-de-lempreinte-carbone-1020x512.jpg
-  publish: true
-  created: 2020-07-08
-  updated: 2020-12-14
-  questions:
-  - 78
-  - 102
-  - 150
-  - 236
-  - 243
-  - 251
-  - 335
-  - 358
-  - 402
-  - 417
-  - 440
-  tags: []
-- id: 6
-  name: Regard sur l'anthropocène, premier aperçu
-  introduction: <p>L'Anthropocène, c'est un terme proposé par des scientifiques pour
-    désigner une nouvelle ère géologique dans laquelle nous serions rentrés, où l'homme
-    est devenu une force géologique majeure. La période la plus récente de l'anthropocène
-    est parfois décrite comme celle de la grande accélération, car de nombreux indicateurs
-    y présentent des courbes de type exponentiel. Ce quiz propose un premier tour
-    d'horizon de l'emprise inédite de l'homme sur la planète qu'il occupe.</p>
-  conclusion: ''
-  difficulty_average: 2.9
-  author: Matthieu Massart
-  image_background_url: https://www.francetvinfo.fr/image/759r92wwm-0bca/1200/450/10617521.jpg
-  publish: true
-  created: 2020-07-08
-  updated: 2020-12-17
-  questions:
-  - 2
-  - 4
-  - 7
-  - 9
-  - 13
-  - 41
-  - 44
-  - 45
-  - 47
-  - 49
-  tags: []
-- id: 7
-  name: le Pétrole - Partie 1
-  introduction: <p>Le pétrole est partout dans nos vies. Et il y a de bonnes raisons
-    à cela ! Si vous voulez savoir à quel point, essayez-vous donc à ce quiz thématique.</p>
-  conclusion: ''
-  difficulty_average: 2.5
-  author: Matthieu Massart
-  image_background_url: https://prixdubaril.com/images/puits-petrole.jpg
-  publish: true
-  created: 2020-07-09
-  updated: 2020-12-17
-  questions:
-  - 13
-  - 106
-  - 107
-  - 111
-  - 112
-  - 113
-  - 114
-  - 115
-  tags: []
-- id: 8
-  name: La Fresque du Climat - Lot 1
-  introduction: "<p>La Fresque du Climat, c’est un atelier ludique, participatif et\
-    \ créatif sur le changement climatique. Il est basé sur l’intelligence collective\
+  "conclusion": ""
+  "difficulty_average": !!float "2.1666666666666665"
+  "author": "Vincent Mignerot"
+  "image_background_url": "https://www.slate.fr/sites/default/files/styles/1060x523/public/neandertal_1.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "545"
+  - !!int "546"
+  - !!int "547"
+  - !!int "548"
+  - !!int "549"
+  - !!int "550"
+  - !!int "551"
+  - !!int "552"
+  - !!int "553"
+  - !!int "555"
+  - !!int "574"
+  - !!int "575"
+  "tags":
+  - !!int "185"
+- "id": !!int "4"
+  "name": "Les pics de ressources"
+  "introduction": "L'extraction de toute ressource finie passe par un maximum, après\
+    \ lequel elle ne peut que décroître pour finalement tomber à 0. C'est le thème\
+    \ qu'explore ce quiz sur les différentes ressources non-renouvelables dont nous\
+    \ faisons usage."
+  "conclusion": ""
+  "difficulty_average": !!float "2.6666666666666665"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/GlobalPeakOil.png"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "65"
+  - !!int "68"
+  - !!int "69"
+  - !!int "171"
+  - !!int "212"
+  - !!int "245"
+  "tags": []
+- "id": !!int "5"
+  "name": "Mon empreinte carbone"
+  "introduction": "<p>L'empreinte carbone d’une activité humaine est une mesure des\
+    \ émissions de gaz à effet de serre d’origine anthropique, c'est-à-dire qui peuvent\
+    \ lui être imputées. Connaissez-vous votre empreinte ? Voyons voir ça.</p>"
+  "conclusion": ""
+  "difficulty_average": !!float "2.090909090909091"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://leshorizons.net/wp-content/uploads/2019/04/d%C3%A9finition-de-lempreinte-carbone-1020x512.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "78"
+  - !!int "102"
+  - !!int "150"
+  - !!int "236"
+  - !!int "243"
+  - !!int "251"
+  - !!int "335"
+  - !!int "358"
+  - !!int "402"
+  - !!int "417"
+  - !!int "440"
+  "tags": []
+- "id": !!int "6"
+  "name": "Regard sur l'anthropocène, premier aperçu"
+  "introduction": "<p>L'Anthropocène, c'est un terme proposé par des scientifiques\
+    \ pour désigner une nouvelle ère géologique dans laquelle nous serions rentrés,\
+    \ où l'homme est devenu une force géologique majeure. La période la plus récente\
+    \ de l'anthropocène est parfois décrite comme celle de la grande accélération,\
+    \ car de nombreux indicateurs y présentent des courbes de type exponentiel. Ce\
+    \ quiz propose un premier tour d'horizon de l'emprise inédite de l'homme sur la\
+    \ planète qu'il occupe.</p>"
+  "conclusion": ""
+  "difficulty_average": !!float "2.9"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://www.francetvinfo.fr/image/759r92wwm-0bca/1200/450/10617521.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "2"
+  - !!int "4"
+  - !!int "7"
+  - !!int "9"
+  - !!int "13"
+  - !!int "41"
+  - !!int "44"
+  - !!int "45"
+  - !!int "47"
+  - !!int "49"
+  "tags": []
+- "id": !!int "7"
+  "name": "le Pétrole - Partie 1"
+  "introduction": "<p>Le pétrole est partout dans nos vies. Et il y a de bonnes raisons\
+    \ à cela ! Si vous voulez savoir à quel point, essayez-vous donc à ce quiz thématique.</p>"
+  "conclusion": ""
+  "difficulty_average": !!float "2.5"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://prixdubaril.com/images/puits-petrole.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "13"
+  - !!int "106"
+  - !!int "107"
+  - !!int "111"
+  - !!int "112"
+  - !!int "113"
+  - !!int "114"
+  - !!int "115"
+  "tags": []
+- "id": !!int "8"
+  "name": "La Fresque du Climat - Lot 1"
+  "introduction": "<p>La Fresque du Climat, c’est un atelier ludique, participatif\
+    \ et créatif sur le changement climatique. Il est basé sur l’intelligence collective\
     \ et est extrêmement pédagogique. C’est une initiation en 3 heures sur les mécanismes\
     \ du climat et les conséquences de son dérèglement. L’objectif de l’association\
     \ qui l’a créée est de sensibiliser 1 million de personnes aux enjeux du climat\
     \ d’ici fin 2021.</p>\r\n\r\n<p>Ce quiz est centré sur le lot de cartes n°1.</p>"
-  conclusion: "<p>Vous voilà prêt à vous attaquer au lot 2 ! Ou, mieux encore, à vous\
-    \ inscrire à un atelier. Plus d'information <a href=\"https://fresqueduclimat.org\"\
+  "conclusion": "<p>Vous voilà prêt à vous attaquer au lot 2 ! Ou, mieux encore, à\
+    \ vous inscrire à un atelier. Plus d'information <a href=\"https://fresqueduclimat.org\"\
     >ici</a>.</p>\r\n\r\n<p> </p>"
-  difficulty_average: 2.111111111111111
-  author: Matthieu Massart
-  image_background_url: https://fresqueduclimat.org/wp-content/uploads/2019/12/photo_2019-12-10-14.01.39-215x215.jpeg
-  publish: true
-  created: 2020-07-14
-  updated: 2020-12-21
-  questions:
-  - 6
-  - 8
-  - 13
-  - 14
-  - 22
-  - 30
-  - 32
-  - 33
-  - 79
-  - 80
-  - 129
-  - 137
-  - 176
-  - 194
-  - 361
-  - 369
-  - 415
-  - 436
-  tags:
-  - 142
-- id: 9
-  name: Pollutions
-  introduction: Nos modes de vie génèrent des pollutions diverses. En connaissez-vous
-    la variété et l'ampleur ? C'est ce que ce quiz se propose d'explorer.
-  conclusion: ''
-  difficulty_average: 3.3
-  author: Matthieu Massart
-  image_background_url: https://static.latribune.fr/full_width/1201312/plastique-a-jakarta.jpg
-  publish: true
-  created: 2020-07-14
-  updated: 2020-11-24
-  questions:
-  - 24
-  - 45
-  - 53
-  - 54
-  - 55
-  - 56
-  - 57
-  - 58
-  - 98
-  - 157
-  tags: []
-- id: 10
-  name: Le Pétrole - Partie 2
-  introduction: <p>Le pétrole est partout dans nos vies. Et il y a de bonnes raisons
-    à cela ? Si vous voulez savoir à quel point, essayez-vous donc à ce quiz thématique.</p>
-  conclusion: ''
-  difficulty_average: 2.25
-  author: Matthieu Massart
-  image_background_url: https://prixdubaril.com/images/puits-petrole.jpg
-  publish: true
-  created: 2020-07-29
-  updated: 2020-12-13
-  questions:
-  - 12
-  - 20
-  - 155
-  - 156
-  - 179
-  - 230
-  - 246
-  - 494
-  tags: []
-- id: 11
-  name: La fresque du Climat - Lot 2
-  introduction: "<p>La Fresque du Climat, c’est un atelier ludique, participatif et\
-    \ créatif sur le changement climatique. Il est basé sur l’intelligence collective\
+  "difficulty_average": !!float "2.111111111111111"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://fresqueduclimat.org/wp-content/uploads/2019/12/photo_2019-12-10-14.01.39-215x215.jpeg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "6"
+  - !!int "8"
+  - !!int "13"
+  - !!int "14"
+  - !!int "22"
+  - !!int "30"
+  - !!int "32"
+  - !!int "33"
+  - !!int "79"
+  - !!int "80"
+  - !!int "129"
+  - !!int "137"
+  - !!int "176"
+  - !!int "194"
+  - !!int "361"
+  - !!int "369"
+  - !!int "415"
+  - !!int "436"
+  "tags":
+  - !!int "142"
+- "id": !!int "9"
+  "name": "Pollutions"
+  "introduction": "Nos modes de vie génèrent des pollutions diverses. En connaissez-vous\
+    \ la variété et l'ampleur ? C'est ce que ce quiz se propose d'explorer."
+  "conclusion": ""
+  "difficulty_average": !!float "3.3"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://static.latribune.fr/full_width/1201312/plastique-a-jakarta.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "24"
+  - !!int "45"
+  - !!int "53"
+  - !!int "54"
+  - !!int "55"
+  - !!int "56"
+  - !!int "57"
+  - !!int "58"
+  - !!int "98"
+  - !!int "157"
+  "tags": []
+- "id": !!int "10"
+  "name": "Le Pétrole - Partie 2"
+  "introduction": "<p>Le pétrole est partout dans nos vies. Et il y a de bonnes raisons\
+    \ à cela ? Si vous voulez savoir à quel point, essayez-vous donc à ce quiz thématique.</p>"
+  "conclusion": ""
+  "difficulty_average": !!float "2.25"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://prixdubaril.com/images/puits-petrole.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "12"
+  - !!int "20"
+  - !!int "155"
+  - !!int "156"
+  - !!int "179"
+  - !!int "230"
+  - !!int "246"
+  - !!int "494"
+  "tags": []
+- "id": !!int "11"
+  "name": "La fresque du Climat - Lot 2"
+  "introduction": "<p>La Fresque du Climat, c’est un atelier ludique, participatif\
+    \ et créatif sur le changement climatique. Il est basé sur l’intelligence collective\
     \ et est extrêmement pédagogique. C’est une initiation en 3 heures sur les mécanismes\
     \ du climat et les conséquences de son dérèglement. L’objectif de l’association\
     \ qui l’a créée est de sensibiliser 1 million de personnes aux enjeux du climat\
     \ d’ici 2021.</p>\r\n\r\n<p>Ce quiz est centré sur le lot de cartes n°2 qui est\
     \ distribué lors d'un atelier de la Fresque.</p>"
-  conclusion: <p>Vous voilà prêt à vous attaquer au lot 3 ! Ou, mieux encore, à vous
-    inscrire à un atelier. Plus d'information <a href="https://fresqueduclimat.org">ici</a>.</p>
-  difficulty_average: 1.9047619047619049
-  author: Matthieu Massart
-  image_background_url: https://fresqueduclimat.org/wp-content/uploads/2020/01/IMG_9753-215x215.jpg
-  publish: true
-  created: 2020-07-29
-  updated: 2020-12-21
-  questions:
-  - 6
-  - 8
-  - 14
-  - 15
-  - 16
-  - 21
-  - 23
-  - 26
-  - 27
-  - 28
-  - 32
-  - 34
-  - 37
-  - 42
-  - 47
-  - 48
-  - 66
-  - 143
-  - 282
-  - 343
-  - 405
-  tags:
-  - 142
-- id: 12
-  name: La Fresque du Climat - Lot 3
-  introduction: "<p>La Fresque du Climat, c’est un atelier ludique, participatif et\
-    \ créatif sur le changement climatique. Il est basé sur l’intelligence collective\
+  "conclusion": "<p>Vous voilà prêt à vous attaquer au lot 3 ! Ou, mieux encore, à\
+    \ vous inscrire à un atelier. Plus d'information <a href=\"https://fresqueduclimat.org\"\
+    >ici</a>.</p>"
+  "difficulty_average": !!float "1.9047619047619049"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://fresqueduclimat.org/wp-content/uploads/2020/01/IMG_9753-215x215.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "6"
+  - !!int "8"
+  - !!int "14"
+  - !!int "15"
+  - !!int "16"
+  - !!int "21"
+  - !!int "23"
+  - !!int "26"
+  - !!int "27"
+  - !!int "28"
+  - !!int "32"
+  - !!int "34"
+  - !!int "37"
+  - !!int "42"
+  - !!int "47"
+  - !!int "48"
+  - !!int "66"
+  - !!int "143"
+  - !!int "282"
+  - !!int "343"
+  - !!int "405"
+  "tags":
+  - !!int "142"
+- "id": !!int "12"
+  "name": "La Fresque du Climat - Lot 3"
+  "introduction": "<p>La Fresque du Climat, c’est un atelier ludique, participatif\
+    \ et créatif sur le changement climatique. Il est basé sur l’intelligence collective\
     \ et est extrêmement pédagogique. C’est une initiation en 3 heures sur les mécanismes\
     \ du climat et les conséquences de son dérèglement. L’objectif de l’association\
     \ qui l’a créée est de sensibiliser 1 million de personnes aux enjeux du climat\
     \ d’ici 2021.</p>\r\n\r\n<p>Ce quiz est centré sur les cartes du 3ème lot distribué\
     \ lors d'une Fresque.</p>"
-  conclusion: <p>Vous pouvez vous inscire à un atelier. Plus d'information <a href="https://fresqueduclimat.org">ici</a>.</p>
-  difficulty_average: 2.0
-  author: Matthieu Massart
-  image_background_url: https://fresqueduclimat.org/wp-content/uploads/2020/01/J1A3917120919-2-215x215.jpg
-  publish: true
-  created: 2020-07-29
-  updated: 2020-12-21
-  questions:
-  - 29
-  - 131
-  - 305
-  - 306
-  - 459
-  - 524
-  tags:
-  - 142
-- id: 13
-  name: La Fresque du Climat - Lot 4
-  introduction: "<p>La Fresque du Climat, c’est un atelier ludique, participatif et\
-    \ créatif sur le changement climatique. Il est basé sur l’intelligence collective\
+  "conclusion": "<p>Vous pouvez vous inscire à un atelier. Plus d'information <a href=\"\
+    https://fresqueduclimat.org\">ici</a>.</p>"
+  "difficulty_average": !!float "2.0"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://fresqueduclimat.org/wp-content/uploads/2020/01/J1A3917120919-2-215x215.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "29"
+  - !!int "131"
+  - !!int "305"
+  - !!int "306"
+  - !!int "459"
+  - !!int "524"
+  "tags":
+  - !!int "142"
+- "id": !!int "13"
+  "name": "La Fresque du Climat - Lot 4"
+  "introduction": "<p>La Fresque du Climat, c’est un atelier ludique, participatif\
+    \ et créatif sur le changement climatique. Il est basé sur l’intelligence collective\
     \ et est extrêmement pédagogique. C’est une initiation en 3 heures sur les mécanismes\
     \ du climat et les conséquences de son dérèglement. L’objectif de l’association\
     \ qui l’a créée est de sensibiliser 1 million de personnes aux enjeux du climat\
     \ d’ici 2025.</p>\r\n\r\n<p>Ce quiz est centré sur les cartes du 4ème lot distribué\
     \ lors d'une fresque.</p>"
-  conclusion: <p><a href="https://fresqueduclimat.org">https://fresqueduclimat.org</a></p>
-  difficulty_average: 2.6666666666666665
-  author: Matthieu Massart
-  image_background_url: https://fresqueduclimat.org/wp-content/uploads/2020/07/PartieRestit-scaled.jpg?gid=1
-  publish: false
-  created: 2020-07-29
-  updated: 2020-12-17
-  questions:
-  - 52
-  - 294
-  - 315
-  tags:
-  - 142
-- id: 14
-  name: La Fresque du Climat - Lot 5
-  introduction: "<p>La Fresque du Climat, c’est un atelier ludique, participatif et\
-    \ créatif sur le changement climatique. Il est basé sur l’intelligence collective\
+  "conclusion": "<p><a href=\"https://fresqueduclimat.org\">https://fresqueduclimat.org</a></p>"
+  "difficulty_average": !!float "2.6666666666666665"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://fresqueduclimat.org/wp-content/uploads/2020/07/PartieRestit-scaled.jpg?gid=1"
+  "publish": !!bool "false"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "52"
+  - !!int "294"
+  - !!int "315"
+  "tags":
+  - !!int "142"
+- "id": !!int "14"
+  "name": "La Fresque du Climat - Lot 5"
+  "introduction": "<p>La Fresque du Climat, c’est un atelier ludique, participatif\
+    \ et créatif sur le changement climatique. Il est basé sur l’intelligence collective\
     \ et est extrêmement pédagogique. C’est une initiation en 3 heures sur les mécanismes\
     \ du climat et les conséquences de son dérèglement. L’objectif de l’association\
     \ qui l’a créée est de sensibiliser 1 million de personnes aux enjeux du climat\
     \ d’ici 2025.</p>\r\n\r\n<p>Ce quiz est centré sur le cinquième et dernier lot\
     \ de cartes distribué lors d'une Fresque.</p>"
-  conclusion: <p>Plus d'information sur la Fresque du Climat <a href="https://fresqueduclimat.org">ici</a>.</p>
-  difficulty_average: 1.6666666666666667
-  author: Matthieu Massart
-  image_background_url: ''
-  publish: false
-  created: 2020-07-29
-  updated: 2020-12-13
-  questions:
-  - 35
-  - 229
-  - 403
-  tags:
-  - 142
-- id: 15
-  name: La Fresque du Climat - pour aller au-delà
-  introduction: "<p>La Fresque du Climat, c’est un atelier ludique, participatif et\
-    \ créatif sur le changement climatique. Il est basé sur l’intelligence collective\
+  "conclusion": "<p>Plus d'information sur la Fresque du Climat <a href=\"https://fresqueduclimat.org\"\
+    >ici</a>.</p>"
+  "difficulty_average": !!float "1.6666666666666667"
+  "author": "Matthieu Massart"
+  "image_background_url": ""
+  "publish": !!bool "false"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "35"
+  - !!int "229"
+  - !!int "403"
+  "tags":
+  - !!int "142"
+- "id": !!int "15"
+  "name": "La Fresque du Climat - pour aller au-delà"
+  "introduction": "<p>La Fresque du Climat, c’est un atelier ludique, participatif\
+    \ et créatif sur le changement climatique. Il est basé sur l’intelligence collective\
     \ et est extrêmement pédagogique. C’est une initiation en 3 heures sur les mécanismes\
     \ du climat et les conséquences de son dérèglement. L’objectif de l’association\
     \ qui l’a créée est de sensibiliser 1 million de personnes aux enjeux du climat\
     \ d’ici 2025.</p>\r\n\r\n<p>Ce quiz vous propose de consolider vos connaissances\
     \ et parfois d'aller plus loin autour du dérèglement du climat - questions non\
     \ liées aux 42 cartes du jeu.</p>"
-  conclusion: <p><a href="https://fresqueduclimat.org">https://fresqueduclimat.org</a></p>
-  difficulty_average: 2.1818181818181817
-  author: Matthieu Massart
-  image_background_url: https://jive.univ-lille.fr/fileadmin/_processed_/c/d/csm_fresque-climat_ac9a138d0f.jpg
-  publish: true
-  created: 2020-07-29
-  updated: 2020-12-13
-  questions:
-  - 33
-  - 139
-  - 180
-  - 222
-  - 264
-  - 348
-  - 362
-  - 425
-  - 428
-  - 453
-  - 460
-  tags:
-  - 142
-- id: 16
-  name: Regard sur l'anthropocène, suite
-  introduction: <p>L'Anthropocène, c'est un terme proposé par des scientifiques pour
-    désigner une nouvelle ère géologique dans laquelle nous serions rentrés, où l'homme
-    est devenu une force géologique majeure. La période la plus récente de l'anthropocène
-    est parfois dite la grande accélération, car de nombreux indicateurs y présentent
-    des courbes de type exponentiel. Ce 2ème quiz continue le tour d'horizon sur l'emprise
-    inédite de l'homme sur la planète qu'il occupe.</p>
-  conclusion: ''
-  difficulty_average: 2.3
-  author: Matthieu Massart
-  image_background_url: https://reporterre.net/local/cache-vignettes/L720xH481/arton11947-94df2.jpg?1597417424
-  publish: true
-  created: 2020-07-29
-  updated: 2020-12-14
-  questions:
-  - 51
-  - 67
-  - 77
-  - 78
-  - 79
-  - 96
-  - 225
-  - 294
-  - 403
-  - 494
-  tags: []
-- id: 17
-  name: Une biodiversité qui s'anéantit
-  introduction: <p>Quel impact 'homme a-t-il sur les autres espèces ? Un premier aperçu
-    via ces quelques questions.</p>
-  conclusion: ''
-  difficulty_average: 2.5
-  author: Matthieu Massart
-  image_background_url: https://images.sudouest.fr/2019/04/25/5cc1b08b66a4bd2c135ac1f5/widescreen/1000x500/l-extinction-des-dinosaures.jpg?v1
-  publish: true
-  created: 2020-08-04
-  updated: 2020-12-13
-  questions:
-  - 4
-  - 7
-  - 41
-  - 44
-  - 59
-  - 60
-  - 61
-  - 67
-  tags:
-  - 6
-  - 49
-  - 76
-- id: 18
-  name: Quiz de Laurent Testot, histoire environnementale
-  introduction: <p>Laurent Testot est journaliste, conférencier et formateur. Il se
-    consacre à la promotion en France de l’histoire globale, une méthode transdisciplinaire
-    d’analyse de l’histoire à grandes échelles. Son premier livre, <em>Cataclysmes.
-    Une histoire environnementale de l’humanité</em> (Payot, 2017), décrit comment
-    l’humanité a co-évolué avec son environnement depuis trois millions d'années.
-    Il a depuis rédigé <em>Homo Canis</em> (Payot, 2018), ou l’histoire du monde racontée
-    par les chiens, et <em>La Nouvelle Histoire du Monde</em> (Sciences Humaines Éditions,
-    2019), un atlas-manuel d’histoire mondiale. Il a dernièrement codirigé, avec Laurent
-    Aillet, <em>Collapsus. Changer ou disparaître ? Le vrai bilan sur notre planète</em>
-    (Albin Michel, 2020), réunissant 40 auteurs autour de la notion d’effondrement.
-    Il nous fait partager, dans ce quiz, quelques tournants de l’histoire des humains
-    et de leurs milieux.</p>
-  conclusion: <p>Ce quiz s'est attaché à montrer comment des événements climatiques,
-    des inventions, des conquêtes ont pu avoir une influence imprévue mais déterminante
-    dans notre interaction avec l'environnement.On espère qu'il aura suscité votre
-    curiosité. Pour aller plus loin, vous pouvez vous plonger dans les ouvrages de
-    Laurent, ou continuer dans le même esprit avec le <a href="https://quizanthropocene.fr/quiz/3">quiz
-    de Vincent Mignerot</a>.</p>
-  difficulty_average: 2.2857142857142856
-  author: Laurent Testot
-  image_background_url: https://testing-girl-avis.com/wp-content/uploads/2018/02/ob_34d04f_cataclysmes-laurent-testot-testing-gir-1.jpg
-  publish: true
-  created: 2020-09-23
-  updated: 2020-12-22
-  questions:
-  - 571
-  - 572
-  - 576
-  - 577
-  - 578
-  - 579
-  - 580
-  tags:
-  - 185
-- id: 52
-  name: Le quiz de Bon Pote sur la finance "verte"
-  introduction: '<p>Je vous présente Thomas, alias Bon Pote. Thomas a commencé à bloguer
-    fin 2018 avec un objectif en tête : rendre ses articles utiles. Le lecteur ne
-    doit pas perdre son temps et doit soit avoir appris quelque chose, soit avoir
-    eu le sourire en lisant. Vous trouverez sur son blog bonpote.com des articles
-    sur la politique, des personnages attachants comme Jean Michel CAC 40, une lettre
-    d''amour à Nabilla...Ses billets sont mordants, très bien documentés, avec la
-    pointe d''humour qui va bien. Au fil de la lecture, on comprend que son travail
-    est en lien avec le monde de la finance. Et comme c''est un sujet qui n''était
-    pas encore abordé dans nos questions, il a commencé à combler ce vide. Prêt à
-    plonger dans l''enfer des réglementations et du greenwashing financier ? C''est
-    parti.</p>'
-  conclusion: ''
-  difficulty_average: 3.0
-  author: Bonpote
-  image_background_url: https://patch.com/img/cdn20/users/224111/20190401/020846/styles/raw/public/processed_images/tree_with_money-1554098721-8512.jpg
-  publish: true
-  created: 2020-11-16
-  updated: 2020-12-13
-  questions:
-  - 596
-  - 597
-  - 598
-  - 599
-  - 600
-  - 601
-  - 602
-  - 603
-  tags:
-  - 194
-- id: 53
-  name: Les 10 questions les plus difficiles
-  introduction: "<p>Les questions présentées dans ce quiz ont été choisies spécifiquement,\
+  "conclusion": "<p><a href=\"https://fresqueduclimat.org\">https://fresqueduclimat.org</a></p>"
+  "difficulty_average": !!float "2.1818181818181817"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://jive.univ-lille.fr/fileadmin/_processed_/c/d/csm_fresque-climat_ac9a138d0f.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "33"
+  - !!int "139"
+  - !!int "180"
+  - !!int "222"
+  - !!int "264"
+  - !!int "348"
+  - !!int "362"
+  - !!int "425"
+  - !!int "428"
+  - !!int "453"
+  - !!int "460"
+  "tags":
+  - !!int "142"
+- "id": !!int "16"
+  "name": "Regard sur l'anthropocène, suite"
+  "introduction": "<p>L'Anthropocène, c'est un terme proposé par des scientifiques\
+    \ pour désigner une nouvelle ère géologique dans laquelle nous serions rentrés,\
+    \ où l'homme est devenu une force géologique majeure. La période la plus récente\
+    \ de l'anthropocène est parfois dite la grande accélération, car de nombreux indicateurs\
+    \ y présentent des courbes de type exponentiel. Ce 2ème quiz continue le tour\
+    \ d'horizon sur l'emprise inédite de l'homme sur la planète qu'il occupe.</p>"
+  "conclusion": ""
+  "difficulty_average": !!float "2.3"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://reporterre.net/local/cache-vignettes/L720xH481/arton11947-94df2.jpg?1597417424"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "51"
+  - !!int "67"
+  - !!int "77"
+  - !!int "78"
+  - !!int "79"
+  - !!int "96"
+  - !!int "225"
+  - !!int "294"
+  - !!int "403"
+  - !!int "494"
+  "tags": []
+- "id": !!int "17"
+  "name": "Une biodiversité qui s'anéantit"
+  "introduction": "<p>Quel impact 'homme a-t-il sur les autres espèces ? Un premier\
+    \ aperçu via ces quelques questions.</p>"
+  "conclusion": ""
+  "difficulty_average": !!float "2.5"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://images.sudouest.fr/2019/04/25/5cc1b08b66a4bd2c135ac1f5/widescreen/1000x500/l-extinction-des-dinosaures.jpg?v1"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "4"
+  - !!int "7"
+  - !!int "41"
+  - !!int "44"
+  - !!int "59"
+  - !!int "60"
+  - !!int "61"
+  - !!int "67"
+  "tags":
+  - !!int "6"
+  - !!int "49"
+  - !!int "76"
+- "id": !!int "18"
+  "name": "Quiz de Laurent Testot, histoire environnementale"
+  "introduction": "<p>Laurent Testot est journaliste, conférencier et formateur. Il\
+    \ se consacre à la promotion en France de l’histoire globale, une méthode transdisciplinaire\
+    \ d’analyse de l’histoire à grandes échelles. Son premier livre, <em>Cataclysmes.\
+    \ Une histoire environnementale de l’humanité</em> (Payot, 2017), décrit comment\
+    \ l’humanité a co-évolué avec son environnement depuis trois millions d'années.\
+    \ Il a depuis rédigé <em>Homo Canis</em> (Payot, 2018), ou l’histoire du monde\
+    \ racontée par les chiens, et <em>La Nouvelle Histoire du Monde</em> (Sciences\
+    \ Humaines Éditions, 2019), un atlas-manuel d’histoire mondiale. Il a dernièrement\
+    \ codirigé, avec Laurent Aillet, <em>Collapsus. Changer ou disparaître ? Le vrai\
+    \ bilan sur notre planète</em> (Albin Michel, 2020), réunissant 40 auteurs autour\
+    \ de la notion d’effondrement. Il nous fait partager, dans ce quiz, quelques tournants\
+    \ de l’histoire des humains et de leurs milieux.</p>"
+  "conclusion": "<p>Ce quiz s'est attaché à montrer comment des événements climatiques,\
+    \ des inventions, des conquêtes ont pu avoir une influence imprévue mais déterminante\
+    \ dans notre interaction avec l'environnement.On espère qu'il aura suscité votre\
+    \ curiosité. Pour aller plus loin, vous pouvez vous plonger dans les ouvrages\
+    \ de Laurent, ou continuer dans le même esprit avec le <a href=\"https://quizanthropocene.fr/quiz/3\"\
+    >quiz de Vincent Mignerot</a>.</p>"
+  "difficulty_average": !!float "2.2857142857142856"
+  "author": "Laurent Testot"
+  "image_background_url": "https://testing-girl-avis.com/wp-content/uploads/2018/02/ob_34d04f_cataclysmes-laurent-testot-testing-gir-1.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "571"
+  - !!int "572"
+  - !!int "576"
+  - !!int "577"
+  - !!int "578"
+  - !!int "579"
+  - !!int "580"
+  "tags":
+  - !!int "185"
+- "id": !!int "52"
+  "name": "Le quiz de Bon Pote sur la finance \"verte\""
+  "introduction": "<p>Je vous présente Thomas, alias Bon Pote. Thomas a commencé à\
+    \ bloguer fin 2018 avec un objectif en tête : rendre ses articles utiles. Le lecteur\
+    \ ne doit pas perdre son temps et doit soit avoir appris quelque chose, soit avoir\
+    \ eu le sourire en lisant. Vous trouverez sur son blog bonpote.com des articles\
+    \ sur la politique, des personnages attachants comme Jean Michel CAC 40, une lettre\
+    \ d'amour à Nabilla...Ses billets sont mordants, très bien documentés, avec la\
+    \ pointe d'humour qui va bien. Au fil de la lecture, on comprend que son travail\
+    \ est en lien avec le monde de la finance. Et comme c'est un sujet qui n'était\
+    \ pas encore abordé dans nos questions, il a commencé à combler ce vide. Prêt\
+    \ à plonger dans l'enfer des réglementations et du greenwashing financier ? C'est\
+    \ parti.</p>"
+  "conclusion": ""
+  "difficulty_average": !!float "3.0"
+  "author": "Bonpote"
+  "image_background_url": "https://patch.com/img/cdn20/users/224111/20190401/020846/styles/raw/public/processed_images/tree_with_money-1554098721-8512.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "596"
+  - !!int "597"
+  - !!int "598"
+  - !!int "599"
+  - !!int "600"
+  - !!int "601"
+  - !!int "602"
+  - !!int "603"
+  "tags":
+  - !!int "194"
+- "id": !!int "53"
+  "name": "Les 10 questions les plus difficiles"
+  "introduction": "<p>Les questions présentées dans ce quiz ont été choisies spécifiquement,\
     \ et ont toutes le niveau de difficulté le plus élevé : ce n'est donc pas le quiz\
     \ par lequel commencer !</p>\r\n\r\n<p>Personne n'a eu la moyenne à ce quiz à\
     \ la première tentative. Alors, prêts à relever le défi ?</p>"
-  conclusion: "<p>Bravo d'être allé jusqu'au bout, ce n'était vraiment pas évident\
+  "conclusion": "<p>Bravo d'être allé jusqu'au bout, ce n'était vraiment pas évident\
     \ !</p>\r\n\r\n<p>Pour vous remettre de ce remue-méninge, n'hésitez pas à allez\
     \ découvrir les autres quiz, ils sont nettement plus faciles !</p>"
-  difficulty_average: 4.0
-  author: laydgeur
-  image_background_url: https://cdn.pixabay.com/photo/2016/11/21/15/28/brain-1845962_1280.jpg
-  publish: true
-  created: 2020-11-27
-  updated: 2020-12-19
-  questions:
-  - 45
-  - 80
-  - 233
-  - 258
-  - 348
-  - 378
-  - 534
-  - 538
-  - 597
-  tags: []
-- id: 54
-  name: NOUVEAU - Born in the USA
-  introduction: "<p>Les États-Unis sont entrés dans notre imaginaire collectif : les\
-    \ cow-boys, New-York, Hollywood, la Silicon Valley, ... Le rêve américain ! Mais\
-    \ les États-Unis, ce sont aussi des consommateurs effrénés de pétrole, un des\
-    \ plus gros producteurs d'énergie fossiles au monde, et un des plus gros émetteurs\
-    \ de CO2 de la planète.</p>\r\n\r\n<p>Découvrez la face écologiquement sombre\
-    \ des États-Unis dans ces quelques questions.</p>"
-  conclusion: "<p>De nos jours, quand on pense pétrole on pense Moyen-Orient, Arabie\
+  "difficulty_average": !!float "4.0"
+  "author": "laydgeur"
+  "image_background_url": "https://cdn.pixabay.com/photo/2016/11/21/15/28/brain-1845962_1280.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "45"
+  - !!int "80"
+  - !!int "233"
+  - !!int "258"
+  - !!int "348"
+  - !!int "378"
+  - !!int "534"
+  - !!int "538"
+  - !!int "597"
+  "tags": []
+- "id": !!int "54"
+  "name": "NOUVEAU - Born in the USA"
+  "introduction": "<p>Les États-Unis sont entrés dans notre imaginaire collectif :\
+    \ les cow-boys, New-York, Hollywood, la Silicon Valley, ... Le rêve américain\
+    \ ! Mais les États-Unis, ce sont aussi des consommateurs effrénés de pétrole,\
+    \ un des plus gros producteurs d'énergie fossiles au monde, et un des plus gros\
+    \ émetteurs de CO2 de la planète.</p>\r\n\r\n<p>Découvrez la face écologiquement\
+    \ sombre des États-Unis dans ces quelques questions.</p>"
+  "conclusion": "<p>De nos jours, quand on pense pétrole on pense Moyen-Orient, Arabie\
     \ Saoudite, ... mais le pays du pétrole par excellence, ce sont les États-Unis\
     \ ! Attention néanmoins, nos modes de vie européens ne sont pas si éloignés.</p>\r\
     \n\r\n<p>Oh, et tant qu'on parle de pétrole, je vous invite à aller faire un tour\
     \ sur notre page de quiz, vous trouverez d'autres quiz thématiques pour pour étancher\
     \ votre soif de compréhension de notre dépendance à l'or noir ;)</p>"
-  difficulty_average: 2.6666666666666665
-  author: laydgeur
-  image_background_url: https://cdn.pixabay.com/photo/2017/12/08/08/17/america-3005258_1280.jpg
-  publish: true
-  created: 2020-11-28
-  updated: 2020-12-02
-  questions:
-  - 246
-  - 278
-  - 325
-  - 353
-  - 358
-  - 360
-  - 439
-  - 503
-  - 539
-  - 626
-  - 666
-  - 668
-  tags:
-  - 11
-  - 13
-  - 31
-  - 80
-- id: 55
-  name: NOUVEAU - Capture et stockage du CO2
-  introduction: "<p>Le Réveilleur, c'est une chaîne Youtube qui fait de la vulgarisation\
+  "difficulty_average": !!float "2.5833333333333335"
+  "author": "laydgeur"
+  "image_background_url": "https://cdn.pixabay.com/photo/2017/12/08/08/17/america-3005258_1280.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "246"
+  - !!int "278"
+  - !!int "325"
+  - !!int "353"
+  - !!int "358"
+  - !!int "360"
+  - !!int "439"
+  - !!int "503"
+  - !!int "539"
+  - !!int "626"
+  - !!int "666"
+  - !!int "668"
+  "tags":
+  - !!int "11"
+  - !!int "13"
+  - !!int "31"
+  - !!int "80"
+- "id": !!int "55"
+  "name": "NOUVEAU - Capture et stockage du CO2"
+  "introduction": "<p>Le Réveilleur, c'est une chaîne Youtube qui fait de la vulgarisation\
     \ sur les thématiques énergie et climat. Il explique de manière pédagogique ces\
     \ sujets complexes sur Youtube.</p>\r\n\r\n<p>Une de ses dernières vidéos traite\
     \ de la capture et du stockage du CO2 dans le sol. C'est en effet une technologie\
@@ -584,7 +589,7 @@
     \ qu'il ne s'agit ici que de processus de capture pour réduire les émissions humaines,\
     \ par pour récupére du CO2 déjà dans l'atmosphère. On espère que ce quiz vous\
     \ donnera envie de visionner sa vidéo.</p>"
-  conclusion: "<p>Bravo à vous d'être allé au bout de ces questions un poil techniques.\
+  "conclusion": "<p>Bravo à vous d'être allé au bout de ces questions un poil techniques.\
     \ Les principaux messages à retenir sur la capture et le stockage du CO2.<br />\r\
     \nTechniquement, ça marche pour de grosses installations fixes (cimenterie, centrales\
     \ électriques), et on sait le faire depuis des années. Mais c'est du point de\
@@ -593,48 +598,50 @@
     \ sur le carbone émis est imposée.<br />\r\nAprès ce petit quiz pour vous mettre\
     \ en appétit, il est temps pour vous d'aller visionner la vidéo <a href=\"https://youtu.be/AQlqQEhVi1M\"\
     >ici</a> ! Et ses autres vidéos aussi d'ailleurs.<br />\r\n </p>"
-  difficulty_average: 2.888888888888889
-  author: Le Réveilleur
-  image_background_url: https://www.lereveilleur.com/wp-content/uploads/2020/09/CSC_paint.jpg
-  publish: true
-  created: 2020-12-08
-  updated: 2020-12-21
-  questions:
-  - 615
-  - 616
-  - 617
-  - 618
-  - 619
-  - 620
-  - 621
-  - 622
-  - 623
-  tags:
-  - 62
-- id: 56
-  name: NOUVEAU - En état d'ébriété énergétique ?
-  introduction: '<p>L''énergie est partout autour de nous: nos voitures, notre électricité,
-    nos usines...Mais avons-nous bien conscience du degré de dépendance que nous avons
-    développé vis à vis d''elle ? Ce quiz pour apprendre à mieux nous en rendre compte.</p>'
-  conclusion: <p>Pour explorer plus avant ces thématiques liées à notre dépendance
-    vis à vis de l'énergie, vous pouvez tester nos quiz sur le pétrole <a href="https://quizanthropocene.fr/quiz/7">ici
-    </a>et <a href="https://quizanthropocene.fr/quiz/10">là</a>. Et pour aller au
-    coma éthylique énergétique, c'est <a href="https://quizanthropocene.fr/quiz/54">par-là</a>.</p>
-  difficulty_average: 2.5
-  author: Matthieu Massart
-  image_background_url: https://www.popsci.com/resizer/iHd2-DUNyurlTDhvndesdxzQoFU=/857x643/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/MTUGSVPHBB22CKTZETTB42BCIE.jpg
-  publish: true
-  created: 2020-12-13
-  updated: 2020-12-14
-  questions:
-  - 64
-  - 93
-  - 103
-  - 107
-  - 125
-  - 134
-  - 284
-  - 520
-  - 531
-  - 582
-  tags: []
+  "difficulty_average": !!float "2.888888888888889"
+  "author": "Le Réveilleur"
+  "image_background_url": "https://www.lereveilleur.com/wp-content/uploads/2020/09/CSC_paint.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "615"
+  - !!int "616"
+  - !!int "617"
+  - !!int "618"
+  - !!int "619"
+  - !!int "620"
+  - !!int "621"
+  - !!int "622"
+  - !!int "623"
+  "tags":
+  - !!int "62"
+- "id": !!int "56"
+  "name": "NOUVEAU - En état d'ébriété énergétique ?"
+  "introduction": "<p>L'énergie est partout autour de nous: nos voitures, notre électricité,\
+    \ nos usines...Mais avons-nous bien conscience du degré de dépendance que nous\
+    \ avons développé vis à vis d'elle ? Ce quiz pour apprendre à mieux nous en rendre\
+    \ compte.</p>"
+  "conclusion": "<p>Pour explorer plus avant ces thématiques liées à notre dépendance\
+    \ vis à vis de l'énergie, vous pouvez tester nos quiz sur le pétrole <a href=\"\
+    https://quizanthropocene.fr/quiz/7\">ici </a>et <a href=\"https://quizanthropocene.fr/quiz/10\"\
+    >là</a>. Et pour aller au coma éthylique énergétique, c'est <a href=\"https://quizanthropocene.fr/quiz/54\"\
+    >par-là</a>.</p>"
+  "difficulty_average": !!float "2.5"
+  "author": "Matthieu Massart"
+  "image_background_url": "https://www.popsci.com/resizer/iHd2-DUNyurlTDhvndesdxzQoFU=/857x643/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/MTUGSVPHBB22CKTZETTB42BCIE.jpg"
+  "publish": !!bool "true"
+  "created": !!timestamp "2020-12-24"
+  "updated": !!timestamp "2020-12-24"
+  "questions":
+  - !!int "64"
+  - !!int "93"
+  - !!int "103"
+  - !!int "107"
+  - !!int "125"
+  - !!int "134"
+  - !!int "284"
+  - !!int "520"
+  - !!int "531"
+  - !!int "582"
+  "tags": []
