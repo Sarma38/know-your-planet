@@ -1,30 +1,30 @@
-- id: 1
-  from_quiz: 7
-  to_quiz: 10
-  status: suivant
-  created: 2020-12-17
-- id: 2
-  from_quiz: 6
-  to_quiz: 16
-  status: suivant
-  created: 2020-12-17
-- id: 3
-  from_quiz: 8
-  to_quiz: 11
-  status: suivant
-  created: 2020-12-17
-- id: 4
-  from_quiz: 11
-  to_quiz: 12
-  status: suivant
-  created: 2020-12-17
-- id: 5
-  from_quiz: 12
-  to_quiz: 13
-  status: suivant
-  created: 2020-12-17
-- id: 6
-  from_quiz: 13
-  to_quiz: 14
-  status: suivant
-  created: 2020-12-17
+- "id": !!int "1"
+  "from_quiz": !!int "7"
+  "to_quiz": !!int "10"
+  "status": "suivant"
+  "created": !!timestamp "2020-12-24"
+- "id": !!int "2"
+  "from_quiz": !!int "6"
+  "to_quiz": !!int "16"
+  "status": "suivant"
+  "created": !!timestamp "2020-12-24"
+- "id": !!int "3"
+  "from_quiz": !!int "8"
+  "to_quiz": !!int "11"
+  "status": "suivant"
+  "created": !!timestamp "2020-12-24"
+- "id": !!int "4"
+  "from_quiz": !!int "11"
+  "to_quiz": !!int "12"
+  "status": "suivant"
+  "created": !!timestamp "2020-12-24"
+- "id": !!int "5"
+  "from_quiz": !!int "12"
+  "to_quiz": !!int "13"
+  "status": "suivant"
+  "created": !!timestamp "2020-12-24"
+- "id": !!int "6"
+  "from_quiz": !!int "13"
+  "to_quiz": !!int "14"
+  "status": "suivant"
+  "created": !!timestamp "2020-12-24"
